@@ -128,7 +128,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://instagram.com/shubhagaman_singh" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/shubhagaman-singh-159a71278" target="_blank">
+<a href="https://linkedin.com/in/shubhagaman-singh" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/user/Shubhagaman Singh" target="_blank">
@@ -163,11 +163,11 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center">
+<!-- <div align="center">
             <a href="https://www.buymeacoffee.com/ShubhagamanSingh" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
                 />
-            </a></div>
+            </a></div> -->
 <br />
