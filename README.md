@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://cdna.artstation.com/p/assets/images/images/062/562/736/large/corey-murakami-d4rkco1080pnoise.jpg?1683444095" align="center" style="width: 100%" />
 </div>  
   
-### <div align="center">I am <a href="https://shubhagaman.netlify.app/">Shubh</a>, a hard-working and driven individual who isn't afraid to face a challenge. I'm passionate about my work and I know how to get the job done.
+### <div align="center">I am <a href="https://shubhagaman-74c28.web.app/">Shubh</a>, a hard-working and driven individual who isn't afraid to face a challenge. I'm passionate about my work and I know how to get the job done.
 </div>
   
 
