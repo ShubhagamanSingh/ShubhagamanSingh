@@ -1,173 +1,283 @@
-<!---
-- 👋 Hi, I’m @ShubhagamanSingh
-- 👀 I’m interested in Backend developement.
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on react and backend developement.
-- 📫 To reach me email on singhshubhagaman@gmail.com
+<!-- Header Section -->
+<a href="https://shubhagaman-74c28.web.app/"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Shubhagaman%20Singh&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI-Powered%20Software%20Engineer%20%7C%20Healthcare%20Innovator%20%7C%20IoT%20Developer&descAlignY=55&descAlign=60" width="100%" style="display: block; width: 100%;" />
+</a>
+<div align="center">
+  <br/>
+  
+  <!-- Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=336699&center=true&vCenter=true&width=500&lines=Building+AI+for+Healthcare+🏥;Innovating+with+IoT+%26+Cloud+☁️;Creating+Patent-Pending+Tech+🚀;-_Google+%26+IBM+Trained+Professional+👨‍💻" alt="Typing SVG" />
+  </a>
+  
+  <br/>
+  
+  <!-- Social Badges -->
+  <a href="https://www.linkedin.com/in/shubhagaman-singh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://shubhagaman-74c28.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firebase&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.github.com/ShubhagamanSingh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/shubhagaman_singh" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.twitter.com/Shubhagaman_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <br/>
+  <a href="https://share.streamlit.io/user/shubhagamansingh" target="_blank">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  </a>
+  <a href="https://leetcode.com/u/ShubhagamanSingh/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/singhshubhagaman" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://www.credly.com/users/shubhagaman-singh" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-Verified-46a049?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
+  </a>
+  <a href="https://orcid.org/0009-0006-5021-2337" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+  </a>
+  <a href="mailto:shubhagamansingh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
+<hr/>
 
-ShubhagamanSingh/ShubhagamanSingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- About Me Section -->
+<h2 align="center">👋 About Me</h2>
 
-<h1>Welcome ✨✨</h1>
+<p align="center">
+  I am a driven <strong>Software Engineer</strong> and <strong>Innovator</strong> based in Delhi, India, with a passion for solving real-world problems through <strong>Artificial Intelligence, Cloud Computing, and IoT</strong>. 
+  <br/><br/>
+  Currently, I am honing my skills as a <strong>Trainee at Google</strong> (Cloud/Kubernetes) and have extensive experience with <strong>IBM</strong> (Cybersecurity) and <strong>Samsung Innovation Campus</strong> (IoT). My goal is to bridge the gap between complex technology and human needs, specifically in the healthcare and agricultural sectors.
+</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">🔭 <strong>Current Role</strong></td>
+      <td align="center">Google Cloud Trainee & B.Tech Scholar</td>
+    </tr>
+    <tr>
+      <td align="center">💡 <strong>Innovation</strong></td>
+      <td align="center">Patent Filed for <strong>ASHWINI</strong> (AI Healthcare System)</td>
+    </tr>
+    <tr>
+      <td align="center">🌱 <strong>Learning</strong></td>
+      <td align="center">Advanced Kubernetes, Cyber Defense, Generative AI</td>
+    </tr>
+    <tr>
+      <td align="center">⚡ <strong>Fun Fact</strong></td>
+      <td align="center">I build robots that can see and code that can heal!</td>
+    </tr>
+  </table>
+</div>
+
+<br/>
 <div align="center">
   <p><b></b></p>
 <img src="https://cdna.artstation.com/p/assets/images/images/062/562/736/large/corey-murakami-d4rkco1080pnoise.jpg?1683444095" align="center" style="width: 100%" />
-</div>  
-  
-### <div align="center">I am <a href="https://shubhagaman-74c28.web.app/">Shubh</a>, a hard-working and driven individual who isn't afraid to face a challenge. I'm passionate about my work and I know how to get the job done.
-</div>
-  
+</div> 
+</br>
 
-- **🔭 I’m currently working on Android Developement**  
-  
-
-- **🌱 I’m currently learning React JS**  
-  
-
-- **❓ Ask me about anything related to DBMS and Web Developement related technologies**  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.ruby-lang.org/en/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/ShubhagamanSingh" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/Shubhagaman_" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/Shubhagaman Singh" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/shubhagaman_singh" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/shubhagaman-singh" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/user/Shubhagaman Singh" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-<!--## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShubhagamanSingh&show_icons=true&count_private=true&hide_border=true" align="center" /></div> --> 
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center" style="background:white;"><img src="https://avatars.githubusercontent.com/u/151312775?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"></div>  
-
-<br/>  
+<!-- Tech Stack Section -->
+<h2 align="center">🚀 Technical Arsenal</h2>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ShubhagamanSingh&&style=flat-square" align="center" />
-</div>  
   
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  
+  <br/>
 
-<br/>  
+  <!-- Frameworks & AI -->
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white" />
 
-<!-- <div align="center">
-            <a href="https://www.buymeacoffee.com/ShubhagamanSingh" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div> -->
-<br />
+  <br/>
+
+  <!-- Cloud & DevOps -->
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  
+  <br/>
+
+  <!-- Hardware/IoT -->
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+
+</div>
+
+<br/>
+
+<!-- Stats Section -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShubhagamanSingh&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhagamanSingh&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+</div>
+</br>
+<div align="center">
+  <img alt="GitHub Readme Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=ShubhagamanSingh&theme=rising-sun&short_numbers=true" style="display: block; margin-top:20px;">
+</div>
+
+<br/>
+
+<!-- Projects Section -->
+<h2 align="center">🏆 Featured Projects</h2>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏥 ASHWINI (AI Healthcare)</h3>
+      <p align="center">
+        <strong>Patent Filed</strong> | <em>Python, Flask, TensorFlow</em>
+        <br/>
+        An AI-powered assistive system aimed at democratizing healthcare in rural areas. Features intelligent symptom analysis, PDF parsing for reports, and neural network diagnostics.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌾 F2S (Farmers to Society)</h3>
+      <p align="center">
+        <strong>E-Commerce</strong> | <em>Android, Java, Firebase</em>
+        <br/>
+        A direct farm-to-table platform eliminating intermediaries. Features real-time price suggestions for farmers, logistics tracking, and vernacular language support.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Wi-Fi Controlled Robo Car</h3>
+      <p align="center">
+        <strong>IoT & Robotics</strong> | <em>ESP8266, C++, WebSockets</em>
+        <br/>
+        A surveillance and navigation robot controlled via a web interface. Features real-time low-latency communication and motor driver integration.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">👗 Fashion Designer AI</h3>
+      <p align="center">
+        <strong>GenAI</strong> | <em>Streamlit, Llama 3, Stable Diffusion</em>
+        <br/>
+        Transforms text descriptions into photorealistic fashion designs. Bridges the gap between abstract creativity and visual e-commerce products.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Certifications Section -->
+<h2 align="center">📜 Certifications & Credentials</h2>
+<p align="center"><em>Click on the titles to verify credentials</em></p>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="https://shubhagaman-74c28.web.app/images/certificates/Ethical_Hacker_certificate_shubhagamansingh-gmail-com.jpg" width="100%" alt="Ethical Hacker" />
+      <br/>
+      <a href="https://www.credly.com/badges/1136e9f5-0046-4bff-828d-a3f9b654b44c"><strong>Ethical Hacker</strong></a>
+      <br/>Cisco
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://shubhagaman-74c28.web.app/images/certificates/ProjectManagement.jpg" width="100%" alt="Project Management" />
+      <br/>
+      <a href="https://www.credly.com/badges/c305416d-eb63-4755-9cf1-96cbfd7a9ec8"><strong>Project Management</strong></a>
+      <br/>IBM & IPMA
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://shubhagaman-74c28.web.app/images/certificates/CyberSecurityFundamentals.jpg" width="100%" alt="Cyber Security Fundamentals" />
+      <br/>
+      <a href="https://www.credly.com/badges/a1b1bc52-cf68-43c5-a7a0-c04526b232e8"><strong>Cybersecurity Fundamentals</strong></a>
+      <br/>IBM
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="https://shubhagaman-74c28.web.app/images/certificates/implement-devops-workflows-in-google-cloud-skill-badge.png" width="100%" alt="DevOps Google Cloud" />
+      <br/>
+      <a href="https://www.credly.com/badges/f5313d3c-e7a9-40ad-a16c-1a44fb885144"><strong>DevOps in Google Cloud</strong></a>
+      <br/>Google Cloud
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://shubhagaman-74c28.web.app/images/certificates/implement-cloud-security-fundamentals-on-google-clo.png" width="100%" alt="Cloud Security Google Cloud" />
+      <br/>
+      <a href="https://www.credly.com/badges/0e18ad2b-6391-44a1-aa2a-bcf46f264040"><strong>Cloud Security (GCP)</strong></a>
+      <br/>Google Cloud
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://shubhagaman-74c28.web.app/images/certificates/develop-serverless-apps-with-firebase-skill-badge.png" width="100%" alt="Serverless Firebase" />
+      <br/>
+      <a href="https://www.credly.com/badges/eaf2e376-b93c-4c12-8306-43707576fa80"><strong>Serverless Apps (Firebase)</strong></a>
+      <br/>Google Cloud
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="https://shubhagaman-74c28.web.app/images/certificates/QuantumML.jpg" width="100%" alt="Quantum ML" />
+      <br/>
+      <a href="https://www.credly.com/badges/397c2f3b-12f9-4c78-a1df-a7d97a0571cd"><strong>Quantum Machine Learning</strong></a>
+      <br/>IBM
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://shubhagaman-74c28.web.app/images/certificates/Artificial_Intelligence.jpg" width="100%" alt="AI Fundamentals" />
+      <br/>
+      <a href="https://www.credly.com/badges/660bec18-2012-48fe-982c-f9fa6d9ff135"><strong>AI Fundamentals</strong></a>
+      <br/>IBM SkillsBuild
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://shubhagaman-74c28.web.app/images/certificates/InformationTechnologyFundamentals.jpg" width="100%" alt="IT Fundamentals" />
+      <br/>
+      <a href="https://www.credly.com/badges/f5bf7311-bf08-4bf4-9ab6-963f53668546"><strong>IT Fundamentals</strong></a>
+      <br/>IBM SkillsBuild
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="https://shubhagaman-74c28.web.app/images/certificates/Edunet_x_IBM_Internship.jpg" width="100%" alt="Edunet Internship" />
+      <br/>
+      <strong>AI & Cloud Internship</strong>
+      <br/>Edunet Foundation
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://shubhagaman-74c28.web.app/images/certificates/aktu.jpg" width="100%" alt="Btech" />
+      <br/>
+      <a href="https://shubhagaman-74c28.web.app/certificate.html?id=b-tech-in-computer-science-engineering" target="_blank"><strong>B. Tech in Computer Science &amp; Engineering</strong></a>
+      <br/>AKTU
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://shubhagaman-74c28.web.app/images/certificates/BTEUP.jpg" width="100%" alt="Diploma" />
+      <br/>
+      <a href="https://shubhagaman-74c28.web.app/certificate.html?id=diploma-in-computer-science-engineering" target="_blank"><strong>Diploma in Computer Science &amp; Engineering</strong></a>
+      <br/>BTEUP
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <h3>📫 Let's Connect & Collaborate!</h3>
+  <p>Open to discussions on AI, Cloud Security, and Impactful Tech.</p>
+</div>
