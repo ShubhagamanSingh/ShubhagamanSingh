@@ -132,8 +132,8 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhagamanSingh&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhagamanSingh&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShubhagamanSingh&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhagamanSingh&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
 </div>
 </br>
 <div align="center">
