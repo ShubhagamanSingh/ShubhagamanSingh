@@ -255,7 +255,7 @@
     <td width="33%" align="center" valign="top">
       <img src="https://shubhagaman-74c28.web.app/images/certificates/Edunet_x_IBM_Internship.jpg" width="100%" alt="Edunet Internship" />
       <br/>
-      <strong>AI & Cloud Internship</strong>
+      <a href="https://www.linkedin.com/posts/shubhagaman-singh_projects-presentation-ugcPost-7383536452430827520-1Q7R?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEPJ9pUBFBh5pWQNy8sMyvOACWzz2ve9eCQ"><strong>AI & Cloud Internship</strong></a>
       <br/>Edunet Foundation
     </td>
     <td width="33%" align="center" valign="top">
