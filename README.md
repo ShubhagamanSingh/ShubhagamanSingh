@@ -105,6 +105,9 @@
 </div>
 
 <br/>
+<!-- <div align="center">
+<img src="/source/straw-hat-luffy.gif" width="100% alt="luffy"/>
+</div> -->
 
 <!-- Interactive Projects Section using Details -->
 <h2 align="center">🏆 Featured Inventions</h2>
@@ -176,8 +179,91 @@
 
 <!-- Footer -->
 <div align="center">
+  <table align="center" width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="https://shubhagaman-74c28.web.app/images/certificates/Ethical_Hacker_certificate_shubhagamansingh-gmail-com.jpg" width="100%" alt="Ethical Hacker" />
+      <br/>
+      <a href="https://www.credly.com/badges/1136e9f5-0046-4bff-828d-a3f9b654b44c"><strong>Ethical Hacker</strong></a>
+      <br/>Cisco
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://shubhagaman-74c28.web.app/images/certificates/ProjectManagement.jpg" width="100%" alt="Project Management" />
+      <br/>
+      <a href="https://www.credly.com/badges/c305416d-eb63-4755-9cf1-96cbfd7a9ec8"><strong>Project Management</strong></a>
+      <br/>IBM & IPMA
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://shubhagaman-74c28.web.app/images/certificates/CyberSecurityFundamentals.jpg" width="100%" alt="Cyber Security Fundamentals" />
+      <br/>
+      <a href="https://www.credly.com/badges/a1b1bc52-cf68-43c5-a7a0-c04526b232e8"><strong>Cybersecurity Fundamentals</strong></a>
+      <br/>IBM
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="https://shubhagaman-74c28.web.app/images/certificates/implement-devops-workflows-in-google-cloud-skill-badge.png" width="100%" alt="DevOps Google Cloud" />
+      <br/>
+      <a href="https://www.credly.com/badges/f5313d3c-e7a9-40ad-a16c-1a44fb885144"><strong>DevOps in Google Cloud</strong></a>
+      <br/>Google Cloud
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://shubhagaman-74c28.web.app/images/certificates/implement-cloud-security-fundamentals-on-google-clo.png" width="100%" alt="Cloud Security Google Cloud" />
+      <br/>
+      <a href="https://www.credly.com/badges/0e18ad2b-6391-44a1-aa2a-bcf46f264040"><strong>Cloud Security (GCP)</strong></a>
+      <br/>Google Cloud
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://shubhagaman-74c28.web.app/images/certificates/develop-serverless-apps-with-firebase-skill-badge.png" width="100%" alt="Serverless Firebase" />
+      <br/>
+      <a href="https://www.credly.com/badges/eaf2e376-b93c-4c12-8306-43707576fa80"><strong>Serverless Apps (Firebase)</strong></a>
+      <br/>Google Cloud
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="https://shubhagaman-74c28.web.app/images/certificates/QuantumML.jpg" width="100%" alt="Quantum ML" />
+      <br/>
+      <a href="https://www.credly.com/badges/397c2f3b-12f9-4c78-a1df-a7d97a0571cd"><strong>Quantum Machine Learning</strong></a>
+      <br/>IBM
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://shubhagaman-74c28.web.app/images/certificates/Artificial_Intelligence.jpg" width="100%" alt="AI Fundamentals" />
+      <br/>
+      <a href="https://www.credly.com/badges/660bec18-2012-48fe-982c-f9fa6d9ff135"><strong>AI Fundamentals</strong></a>
+      <br/>IBM SkillsBuild
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://shubhagaman-74c28.web.app/images/certificates/InformationTechnologyFundamentals.jpg" width="100%" alt="IT Fundamentals" />
+      <br/>
+      <a href="https://www.credly.com/badges/f5bf7311-bf08-4bf4-9ab6-963f53668546"><strong>IT Fundamentals</strong></a>
+      <br/>IBM SkillsBuild
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="https://shubhagaman-74c28.web.app/images/certificates/Edunet_x_IBM_Internship.jpg" width="100%" alt="Edunet Internship" />
+      <br/>
+      <a href="https://www.linkedin.com/posts/shubhagaman-singh_projects-presentation-ugcPost-7383536452430827520-1Q7R?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEPJ9pUBFBh5pWQNy8sMyvOACWzz2ve9eCQ"><strong>AI & Cloud Internship</strong></a>
+      <br/>Edunet Foundation
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://shubhagaman-74c28.web.app/images/certificates/aktu.jpg" width="100%" alt="Btech" />
+      <br/>
+      <a href="https://shubhagaman-74c28.web.app/certificate.html?id=b-tech-in-computer-science-engineering" target="_blank"><strong>B. Tech in Computer Science &amp; Engineering</strong></a>
+      <br/>AKTU
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://shubhagaman-74c28.web.app/images/certificates/BTEUP.jpg" width="100%" alt="Diploma" />
+      <br/>
+      <a href="https://shubhagaman-74c28.web.app/certificate.html?id=diploma-in-computer-science-engineering" target="_blank"><strong>Diploma in Computer Science &amp; Engineering</strong></a>
+      <br/>BTEUP
+    </td>
+  </tr>
+</table>
+
+  <img src="https://cdna.artstation.com/p/assets/images/images/062/562/736/large/corey-murakami-d4rkco1080pnoise.jpg?1683444095" align="center" style="width: 100%" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
   <h3>📫 Let's Connect & Collaborate!</h3>
   <p>Open to discussions on AI, Cloud Security, and Impactful Tech.</p>
 </div>
-
