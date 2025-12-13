@@ -74,7 +74,7 @@
 <br/>
 
 <!-- 3D Contribution Map (Requires GitHub Action - See Instructions) -->
-<h2 align="center">🌍 3D Contribution Landscape</h2>
+<h2 align="center">Contribution Landscape</h2>
 <div align="center">
   <!-- CHANGE THIS LINK to your repo link after setting up the Action -->
   <img src="https://github.com/ShubhagamanSingh/ShubhagamanSingh/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
