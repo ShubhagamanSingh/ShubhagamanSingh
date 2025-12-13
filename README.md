@@ -66,9 +66,7 @@
     </td>
     <td width="45%" align="center">
       <!-- 3D Illustration (Replace with a specific 3D asset if you have one, currently using a high-quality aesthetic gif) -->
-      <video src="../source/straw-hat-luffy.3840x2160.mp4" 
-        width="200" autoplay loop muted playsinline controls="false" style="pointer-events: none;">
-</video>
+      <img src="../source/straw-hat-luffy.gif" width="200px" alt="luffy"/>
     </td>
   </tr>
 </table>
