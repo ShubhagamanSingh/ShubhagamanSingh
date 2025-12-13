@@ -66,7 +66,7 @@
     </td>
     <td width="45%" align="center">
       <!-- 3D Illustration (Replace with a specific 3D asset if you have one, currently using a high-quality aesthetic gif) -->
-      <img src="../source/straw-hat-luffy.gif" width="200px" alt="luffy"/>
+      <img src="/source/straw-hat-luffy.gif" width="100% alt="luffy"/>
     </td>
   </tr>
 </table>
