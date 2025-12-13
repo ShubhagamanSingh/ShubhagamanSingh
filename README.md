@@ -66,7 +66,7 @@
     </td>
     <td width="45%" align="center">
       <!-- 3D Illustration (Replace with a specific 3D asset if you have one, currently using a high-quality aesthetic gif) -->
-      <video src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9oOXkxdHEwYmFqZmV0M3l5bnM1bXlxM3l5bnM1bXlxM3l5bnM1bXkmZXA9djFfc3RpY2tlcnNfc2VhcmNoJmN0PXM/l41lI4bYmcsPJX9Nk/giphy.mp4" 
+      <video src="../source/straw-hat-luffy.3840x2160.mp4" 
         width="200" autoplay loop muted playsinline controls="false" style="pointer-events: none;">
 </video>
     </td>
