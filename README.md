@@ -1,25 +1,51 @@
-<!-- Hero Section with 3D Header -->
+<!-- Header Section -->
+<a href="https://shubhagaman-74c28.web.app/"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Shubhagaman%20Singh&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI-Powered%20Software%20Engineer%20%7C%20Healthcare%20Innovator%20%7C%20IoT%20Developer&descAlignY=55&descAlign=60" width="100%" style="display: block; width: 100%;" />
+</a>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=Shubhagaman%20Singh&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI-Powered%20Software%20Engineer%20%7C%20IoT%20Innovator&descAlignY=60&descAlign=60&fontColor=38bdf8" width="100%" />
-</div>
-
-<div align="center">
+  <br/>
   
-  <!-- Dynamic Typing Effect with Gradient -->
+  <!-- Typing Effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&background=00000000&center=true&vCenter=true&width=600&lines=Building+Next-Gen+AI+for+Healthcare+🏥;Architecting+Cloud+Solutions+at+Google+☁️;Designing+Patent-Pending+IoT+Tech+🚀;Crafting+Code+That+Heals+👨‍💻" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=336699&center=true&vCenter=true&width=500&lines=Building+AI+for+Healthcare+🏥;Innovating+with+IoT+%26+Cloud+☁️;Creating+Patent-Pending+Tech+🚀;-_Google+%26+IBM+Trained+Professional+👨‍💻" alt="Typing SVG" />
   </a>
   
   <br/>
   
-  <!-- Animated Social Icons -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/shubhagaman-singh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>
-    <a href="https://shubhagaman-74c28.web.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firebase&logoColor=white" height="30"/></a>
-    <a href="https://leetcode.com/u/ShubhagamanSingh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="30"/></a>
-    <a href="mailto:shubhagamansingh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/></a>
-    <a href="https://orcid.org/0009-0006-5021-2337"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" height="30"/></a>
-  </p>
+  <!-- Social Badges -->
+  <a href="https://www.linkedin.com/in/shubhagaman-singh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://shubhagaman-74c28.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firebase&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.github.com/ShubhagamanSingh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/shubhagaman_singh" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.twitter.com/Shubhagaman_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <br/>
+  <a href="https://share.streamlit.io/user/shubhagamansingh" target="_blank">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  </a>
+  <a href="https://leetcode.com/u/ShubhagamanSingh/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/singhshubhagaman" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://www.credly.com/users/shubhagaman-singh" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-Verified-46a049?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
+  </a>
+  <a href="https://orcid.org/0009-0006-5021-2337" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+  </a>
+  <a href="mailto:shubhagamansingh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
 
 <hr/>
@@ -147,7 +173,11 @@
   </a>
 </div>
 <br/>
+
+<!-- Footer -->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer" width="100%"/>
-    <p>Let's Innovate Together.</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <h3>📫 Let's Connect & Collaborate!</h3>
+  <p>Open to discussions on AI, Cloud Security, and Impactful Tech.</p>
 </div>
+
