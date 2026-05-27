@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<a href="https://shubhagaman-74c28.web.app/"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Shubhagaman%20Singh&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI-Powered%20Software%20Engineer%20%7C%20Healthcare%20Innovator%20%7C%20IoT%20Developer&descAlignY=55&descAlign=60" width="100%" style="display: block; width: 100%;" />
+<a href="https://shubhagaman.in/"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Shubhagaman%20Singh&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI-Powered%20Software%20Engineer%20%7C%20Healthcare%20Innovator%20%7C%20IoT%20Developer&descAlignY=55&descAlign=60" width="100%" style="display: block; width: 100%;" />
 </a>
 <div align="center">
   <br/>
@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/shubhagaman-singh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://shubhagaman-74c28.web.app/" target="_blank">
+  <a href="https://shubhagaman.in/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firebase&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.github.com/ShubhagamanSingh" target="_blank">
